@@ -1,0 +1,21 @@
+{
+  "name": "saphira-theme",
+  "displayName": "Saphira Theme",
+  "description": "Vscode theme derived from customizing Flatgrammer",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.98.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Saphira",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Saphira-color-theme.json"
+      }
+    ]
+  }
+}
