@@ -3,6 +3,7 @@
   "displayName": "Saphira Theme",
   "description": "Vscode theme derived from customizing Flatgrammer",
   "version": "0.0.1",
+  "icon": "icon.png",
   "engines": {
     "vscode": "^1.98.0"
   },
