@@ -18,5 +18,8 @@
         "path": "./themes/Saphira-color-theme.json"
       }
     ]
+  },
+  "repository": {
+    "url": "https://github.com/lasserre/saphira-theme-vscode"
   }
 }
